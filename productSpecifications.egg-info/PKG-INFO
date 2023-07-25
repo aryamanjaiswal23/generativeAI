@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: productSpecifications
+Version: 1.0.0
+Summary: Creates a dictionary of key value pair for specifications of the product specified by the user
+Home-page: https://github.com/your_username/your_package
+Author: Aryaman Jaiswal
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
